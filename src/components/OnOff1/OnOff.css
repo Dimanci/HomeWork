@@ -1,0 +1,40 @@
+.dot_on {
+    height: 15px;
+    width: 15px;
+    background-color: #64FF33;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+.dot_off {
+    height: 15px;
+    width: 15px;
+    background-color: #eee;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+
+
+}
+
+.button_on {
+    width: 80px;
+    background-color: #64FF33;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.button_off {
+    width: 80px;
+    background-color: #FF3342;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.button_onoff {
+    width: 80px;
+    font-size: 16px;
+    padding: 5px;
+}
